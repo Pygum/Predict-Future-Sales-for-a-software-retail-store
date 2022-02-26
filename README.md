@@ -1,1 +1,1 @@
-# Predict-Future-Sales-for-an-IT-store
+# Predict-Future-Sales-for-a-software-retail-store
